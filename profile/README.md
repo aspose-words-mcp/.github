@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="#start-here">Get started</a> ·
-  <a href="https://github.com/aspose-words-mcp/net-client-copilot-agent/blob/main/showcase/runs/published-01/showcase.md">Explore example answers</a> ·
+  <a href="#explore-real-examples">Explore example answers</a> ·
   <a href="https://docs.aspose.com/words/">Documentation</a> ·
   <a href="https://reference.aspose.com/words/">API reference</a>
 </p>
@@ -39,11 +39,16 @@ The plugins prepare platform-specific documentation and API content. The shared 
 
 ## Explore real examples
 
-**[Browse 99 .NET example answers →](https://github.com/aspose-words-mcp/net-client-copilot-agent/blob/main/showcase/runs/published-01/showcase.md)**
+Browse published answers for document conversion, reporting, editing, and other Aspose.Words tasks.
 
-Explore document conversion, reporting, editing, and other Aspose.Words tasks. The accompanying [run metrics](https://github.com/aspose-words-mcp/net-client-copilot-agent/blob/main/showcase/runs/published-01/metrics.md) report compilation outcomes, repairs, model usage, and timing.
+| Platform | Published showcase | Run metrics |
+| :--- | :--- | :--- |
+| **.NET** | [Browse 99 example answers](https://github.com/aspose-words-mcp/net-client-copilot-agent/blob/main/showcase/runs/published-01/showcase.md) | [Compilation outcomes and run details](https://github.com/aspose-words-mcp/net-client-copilot-agent/blob/main/showcase/runs/published-01/metrics.md) |
+| **Java** | [Browse 99 example answers](https://github.com/aspose-words-mcp/java-client-copilot-agent/blob/main/showcase/runs/published-01/showcase.md) | [Compilation outcomes and run details](https://github.com/aspose-words-mcp/java-client-copilot-agent/blob/main/showcase/runs/published-01/metrics.md) |
 
-Working with Java? The [Java showcase runner](https://github.com/aspose-words-mcp/java-client-copilot-agent/blob/main/showcase/README.md) includes 99 questions and a workflow for generating and checking answers against your deployment.
+Each run's metrics report compilation outcomes, repairs, model usage, and timing. Compilation results do not establish runtime correctness.
+
+To generate and check answers against your own deployment, see the [.NET showcase runner](https://github.com/aspose-words-mcp/net-client-copilot-agent/blob/main/showcase/README.md) or [Java showcase runner](https://github.com/aspose-words-mcp/java-client-copilot-agent/blob/main/showcase/README.md).
 
 ## Documentation and support
 
